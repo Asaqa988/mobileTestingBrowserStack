@@ -6,7 +6,7 @@
       <class name="mytest.MyTestCases">
         <methods>
           <include name="setup"/>
-          <include name="clickOnTwoRandomNumbers"/>
+          <include name="addTwoNumbers"/>
           <include name="beforeEachTest"/>
         </methods>
       </class> <!-- mytest.MyTestCases -->
